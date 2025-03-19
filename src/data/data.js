@@ -7,6 +7,7 @@ import img6 from '../assets/lucky.png'
 import img9 from '../assets/atb.jpg'
 import img10 from '../assets/apple.jpg'
 import img12 from '../assets/eccomerce.png'
+import img22 from '../assets/puma.png'
 
 const data = [
     {
@@ -15,6 +16,13 @@ const data = [
         tools: ['Tailwind CSS', 'React', 'Redux'],
         link: `https://charles-keith.vercel.app/us`,
         desc: 'This e-commerce website is developed using React, Redux, and Tailwind CSS, ensuring a modern and responsive user interface. The site provides a seamless shopping experience, allowing users to effortlessly browse and purchase products.'
+    },
+    {
+        img: img22,
+        name: 'Puma Online Shop',
+        tools: ['HTML', 'Tailwind CSS', 'Javascript'],
+        link: `https://puma-clone-five.vercel.app/`,
+        desc: 'A fully responsive Puma Online Shop Clone built with HTML, Tailwind CSS, and JavaScript, featuring dynamic product filtering, an interactive shopping cart, smooth navigation, and a modern eCommerce UI. 🚀'
     },
     {
         img: img12,
